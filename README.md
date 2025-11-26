@@ -1,0 +1,1 @@
+# kocsistem_ai_g6_4xlarge
